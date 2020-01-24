@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.pizza-vl.app"
         versionCode = "10"
-        version     = "1.9.0">
+        version     = "1.10.0">
 
     <name>Pizzaiolo Доставка</name>
 
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/7a04cc007584e5cecd9b40d5a15eecdf.png" width="87" height="87" />
         <icon src="res/ios/icon/fee0d98ff75b1af315092290605dccde.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/a27e2653354dfa7e44169f101a0652aa.png" />
-        <splash src="res/ios/screen/fe3440a9f593dccfbd7af2e3434a038c.png" />
-        <splash src="res/ios/screen/04472db341e57e194cbacc0f539eb57d.png" />
-        <splash src="res/ios/screen/935c61102ab3bdb88736718a469a41cc.png" />
-        <splash src="res/ios/screen/bb010138689de95452cd041c587894c9.png" />
-        <splash src="res/ios/screen/dfe90921b33f56dd758154c967a5559c.png" />
+        <splash src="res/ios/screen/1fe513c5cc19f50b4e603264d1940f2c.png" />
+        <splash src="res/ios/screen/4f7177eb5f9a145d0900554af57d9543.png" />
+        <splash src="res/ios/screen/2588106befd6a72a373a25ebe596197f.png" />
+        <splash src="res/ios/screen/be1d58d2eded5d881b51fa4b308cf62a.png" />
+        <splash src="res/ios/screen/c82cc853a7561a0ea117b6f82c95152b.png" />
+        <splash src="res/ios/screen/910c77aa3c7e12d42783e65610040b29.png" />
     </platform>
 
     <platform name="winphone">
