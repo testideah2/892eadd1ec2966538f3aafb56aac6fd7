@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ru.pizza-vl.app"
         versionCode = "10"
-        version     = "1.8.0">
+        version     = "1.9.0">
 
     <name>Pizzaiolo Доставка</name>
 
@@ -54,20 +54,20 @@
     </platform>
 
     <platform name="ios">
-        <icon src="res/ios/icon/bcd588b9dbd8a47337c9b859109ebe4e.png" width="180" height="180" />
-        <icon src="res/ios/icon/87b89411efc9e3336382b17a2fd964ae.png" width="60" height="60" />
-        <icon src="res/ios/icon/c1848d012bbae51bdc36a942e39cb795.png" width="120" height="120" />
-        <icon src="res/ios/icon/b1f05e8891c8244e65436baeef095720.png" width="76" height="76" />
-        <icon src="res/ios/icon/cc556df4baceca43623def8fa2faa9dd.png" width="152" height="152" />
-        <icon src="res/ios/icon/20691b3d4ee3cf8cde4600846560977e.png" width="57" height="57" />
-        <icon src="res/ios/icon/4475bbbcdc5c545a8905b757361a0e3c.png" width="114" height="114" />
-        <icon src="res/ios/icon/02b3eedd276d2f8c75eb7990a2c8b6aa.png" width="72" height="72" />
-        <icon src="res/ios/icon/592144e4e1fc31db905988d1ff5373de.png" width="144" height="144" />
-        <icon src="res/ios/icon/40069d64c7f71ce99b619cbde7705b59.png" width="167" height="167" />
-        <icon src="res/ios/icon/ee99cf707f5d971b2c9a969df683ee38.png" width="29" height="29" />
-        <icon src="res/ios/icon/801d227c34962f7775577f06f330f735.png" width="58" height="58" />
-        <icon src="res/ios/icon/be45a55df64f180a6950f7caf291983f.png" width="87" height="87" />
-        <icon src="res/ios/icon/4b307ceebcf833c20442b6ba71b2e22c.png" width="167" height="167" />
+        <icon src="res/ios/icon/a9582e00c34b9f1b6b7038c7a4592a48.png" width="180" height="180" />
+        <icon src="res/ios/icon/1f2c9f401cc55cc05221c2af66152361.png" width="60" height="60" />
+        <icon src="res/ios/icon/6e0a12f86a869df76cda814a4de87a39.png" width="120" height="120" />
+        <icon src="res/ios/icon/de89d461a0debc0487670ddba07fbcc3.png" width="76" height="76" />
+        <icon src="res/ios/icon/2f6f626b3e06bad6f8091f633b366cd4.png" width="152" height="152" />
+        <icon src="res/ios/icon/5ecd5bb60333962a2559461eeaf0ec8e.png" width="57" height="57" />
+        <icon src="res/ios/icon/0aa483cb22fe9b91c396bb5b2db17f69.png" width="114" height="114" />
+        <icon src="res/ios/icon/51351d6b634da26332557a4e72791c03.png" width="72" height="72" />
+        <icon src="res/ios/icon/ba38bd8edbeb7bffd805e13c07ed2f9a.png" width="144" height="144" />
+        <icon src="res/ios/icon/856622b57be76897579ec1028484ccda.png" width="167" height="167" />
+        <icon src="res/ios/icon/0fba9de4614ec92ef9a426ed44387818.png" width="29" height="29" />
+        <icon src="res/ios/icon/44c46c3621776827b5b0ed5341145d4f.png" width="58" height="58" />
+        <icon src="res/ios/icon/7a04cc007584e5cecd9b40d5a15eecdf.png" width="87" height="87" />
+        <icon src="res/ios/icon/fee0d98ff75b1af315092290605dccde.png" width="167" height="167" />
 
         <splash src="res/ios/screen/a27e2653354dfa7e44169f101a0652aa.png" />
         <splash src="res/ios/screen/fe3440a9f593dccfbd7af2e3434a038c.png" />
